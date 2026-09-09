@@ -19,4 +19,5 @@ This fork adds a **Face** button to the schematic placement configuration GUI fo
 <img src="button.png" width="400" alt="Face Button">
 
 It turns the schematic's original top face toward **Up, North, South, East, West, or Down**. It is intended especially for full-block map art.
+
 <img src="example.png" width="400" alt="example of use">
