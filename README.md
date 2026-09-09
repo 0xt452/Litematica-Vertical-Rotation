@@ -16,7 +16,7 @@ For compiled builds (= downloads), see https://www.curseforge.com/minecraft/mc-m
 
 # New Feature
 This fork adds a **Face** button to the schematic placement configuration GUI for Minecraft **1.21.11 / Fabric**.
-![Face button](button.png)
+<img src="button.png" width="400" alt="Face Button">
 
 It turns the schematic's original top face toward **Up, North, South, East, West, or Down**. It is intended especially for full-block map art.
-![example](example.png)
+<img src="example.png" width="400" alt="example of use">
