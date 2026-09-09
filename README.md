@@ -13,7 +13,7 @@ Litematica Vertical Rotation is Litematica with vertical placement rotations.
 * run 'gradlew build'
 * The built jar file will be in build/libs/
 
-# New Feature
+# Added Feature (Vertical Rotation)
 This fork adds a **Face** button to the schematic placement configuration GUI for Minecraft **1.21.11 / Fabric**.
 <img src="button.png" width="400" alt="Face Button">
 
