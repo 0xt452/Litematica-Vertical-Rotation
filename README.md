@@ -1,4 +1,4 @@
-[![](https://jitpack.io/v/sakura-ryoko/litematica.svg)](https://jitpack.io/#sakura-ryoko/litematica)
+
 
 ## Litematica
 ==============
@@ -15,4 +15,8 @@ For compiled builds (= downloads), see https://www.curseforge.com/minecraft/mc-m
 * The built jar file will be in build/libs/
 
 # New Feature
-This fork adds a **Face** button to the schematic placement configuration GUI for Minecraft **1.21.11 / Fabric**. It turns the schematic's original top face toward **Up, North, South, East, West, or Down**. It is intended especially for full-block map art.
+This fork adds a **Face** button to the schematic placement configuration GUI for Minecraft **1.21.11 / Fabric**.
+![Face button](button.png)
+
+It turns the schematic's original top face toward **Up, North, South, East, West, or Down**. It is intended especially for full-block map art.
+![example](example.png)
