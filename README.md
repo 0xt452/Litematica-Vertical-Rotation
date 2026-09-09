@@ -2,7 +2,9 @@
 
 ## Litematica
 Litematica is a client-side Minecraft mod using LiteLoader.
+
 Litematica Vertical Rotation is a client-side Minecraft mod using Fabric.
+
 Litematica Vertical Rotation is Litematica with vertical placement rotations.
 
 # Compiling
