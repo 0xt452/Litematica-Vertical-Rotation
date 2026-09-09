@@ -7,6 +7,8 @@ Litematica Vertical Rotation is a client-side Minecraft mod using Fabric.
 
 Litematica Vertical Rotation is Litematica with vertical placement rotations.
 
+This mod is intended for lazy people like myself who dont want to load up pesky WorldEdit to rotate their schematics.
+
 # Compiling
 * Clone the repository
 * Open a command prompt/terminal to the repository directory
